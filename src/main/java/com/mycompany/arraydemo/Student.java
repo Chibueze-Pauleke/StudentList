@@ -4,7 +4,7 @@
  */
 package com.mycompany.arraydemo;
 
-/**
+/** This changed were for PULL
  * This command was added on 26 Jan
  *This is to show modification
  * @author ekech
