@@ -5,6 +5,7 @@
 package com.mycompany.arraydemo;
 
 /**
+ * This command was added on 26 Jan
  *This is to show modification
  * @author ekech
  * This is to show revert commit
